@@ -1,5 +1,5 @@
 <template>
-<div>
+<div class="back-to-blogs-index">
   <hr>
 
   Back to
