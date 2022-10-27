@@ -3,7 +3,7 @@
   <hr>
 
   Back to
-    <NuxtLink to="/posts">
+    <NuxtLink to="/blog">
       all posts.
     </NuxtLink>
 </div>
